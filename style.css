@@ -1,0 +1,25 @@
+* {
+    font-family: 'Noto Sans KR', sans-serif;
+    
+}
+
+/* div{
+    border: 1px solid gray;
+} */
+
+.main-logo{
+    margin-right: 1em;
+}
+.menu-list{
+    font-size: 1.3em;
+}
+
+.main-container{
+    width: 1000px;
+}
+img{
+    display:block;
+	width:100%;
+	height:auto;
+    border-radius: 20px;
+}
